@@ -1,0 +1,52 @@
+
+
+
+
+#profile{
+    font-size: 15px;
+    font-weight: bold;
+    height:80px;
+    background-size: cover;
+    animation: flash;
+    animation-duration: 2s;
+}
+
+.box{
+    background: linear-gradient(90deg,  #53004a , rgba(0,0,0,1) );
+
+    color: white;
+}
+
+.weather{
+    background: linear-gradient(90deg,  #53004a, rgba(0,0,0,1) );
+
+}
+
+.table{
+    background: linear-gradient(90deg,  #53004a, rgba(0,0,0,1) );
+
+}
+
+.my-table{
+    background: linear-gradient(90deg,  #53004a, rgba(0,0,0,1) );
+
+}
+
+.example-form {
+    min-width: 150px;
+    max-width: 500px;
+    width: 100%;
+  }
+  
+  .example-full-width {
+    width: 100%;
+  }
+
+  .msg{
+    background: linear-gradient(90deg,  #53004a, rgba(0,0,0,1) );
+
+  }
+
+  .btn{
+    color: #53004a;
+  }
